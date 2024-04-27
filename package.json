@@ -1,0 +1,23 @@
+{
+  "name": "website-todo-list",
+  "version": "1.0.0",
+  "description": "a cool website todo list",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 'woah test'",
+    "start": "browser-sync start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriggerChoco/website-todo-list.git"
+  },
+  "author": "Nate Saumell <foxyfan23@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriggerChoco/website-todo-list/issues"
+  },
+  "homepage": "https://github.com/TriggerChoco/website-todo-list#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
